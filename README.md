@@ -223,6 +223,7 @@ This project demonstrates:
 
 - GitHub: [@Taiwosamuel8364](https://github.com/Taiwosamuel8364)
 - PLP Academy Student
+- Deplyed url: https://react-js-jsx-and-css-mastering-front-end-uean.onrender.com
 
 ## 🙏 Acknowledgments
 
